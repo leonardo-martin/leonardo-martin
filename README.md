@@ -2,11 +2,11 @@
 
 ![](https://github.com/leonardo-martin/leonardo-martin/blob/main/images/cyberpunk1.gif)
 
-I'm a Front end developer, UI designer and passionated about human behavior. Everyday I seek to create awesome experiences through well developed user interfaces. I'm 27 years old, living in Perth, Australia.
+I'm a Full Stack Developer, UI designer and passionated about human behavior. Everyday I seek to create awesome experiences through well developed user interfaces. I'm 27 years old, living in Perth, Australia.
 
 If you are looking for a dedicated, hard-working and a focused on UX coder, feel free to contact me.
 
-✉️ leonardomsanfelix@gmail.com
+✉️ sanfelixleo@gmail.com
 
 ### Find me all around the web:
 
